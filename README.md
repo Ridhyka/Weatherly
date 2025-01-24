@@ -1,0 +1,2 @@
+# Weatherly
+ This is a sleek and interactive weather application that provides real-time weather updates for any city around the globe. Built using Vite and React, the app utilizes the OpenWeatherMap API to fetch accurate weather data, including temperature, weather conditions, humidity, and wind speed.  The app features a dynamic UI that changes based on the current weather conditions (e.g., sunny, rainy, cloudy), creating an engaging and personalized user experience. Its fully responsive design ensures smooth usability across all devices, from mobile phones to desktops.
