@@ -28,11 +28,11 @@ Here are some screenshots of the Weatherly app:
 
 1. **Cloudy weather**  
    
-    <img src="/images/Screenshot (16).png" alt="Current Weather and Search Bar" width="600" height="400">
+    <img src="/public/images/Screenshot (16).png" alt="Current Weather and Search Bar" width="600" height="400">
 
 3. **Sunny weather**  
  
-    <img src="/images/Screenshot (16).png" alt="Current Weather and Search Bar" width="600" height="400">
+    <img src="/public/images/Screenshot (16).png" alt="Current Weather and Search Bar" width="600" height="400">
 
 
 
