@@ -27,10 +27,12 @@ You can view the live version of the app here:
 Here are some screenshots of the Weatherly app:
 
 1. **Cloudy weather**  
-   ![Cloudy weather](public\images\Screenshot (16).png)
+   
+    <img src="/images/Screenshot (16).png" alt="Current Weather and Search Bar" width="600" height="400">
 
-2. **Sunny weather**  
-   ![Sunny weather](public\images\Screenshot (16).png)
+3. **Sunny weather**  
+ 
+    <img src="/images/Screenshot (16).png" alt="Current Weather and Search Bar" width="600" height="400">
 
 
 
